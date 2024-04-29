@@ -1,0 +1,151 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('icomoon40fb.eot?o6vr2n');
+  src: url('icomoon40fb.eot?o6vr2n#iefix') format('embedded-opentype'),
+    url('icomoon40fb.ttf?o6vr2n') format('truetype'),
+    url('icomoon40fb.woff?o6vr2n') format('woff'),
+    url('icomoon40fb.svg?o6vr2n#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ethernet:before {
+  content: "\e900";
+}
+
+.icon-video-cam:before {
+  content: "\e901";
+}
+
+.icon-global-reach:before {
+  content: "\e902";
+}
+
+.icon-slow-wifi:before {
+  content: "\e903";
+}
+
+.icon-unstable-wifi:before {
+  content: "\e904";
+}
+
+.icon-far-server-location:before {
+  content: "\e905";
+}
+
+.icon-wifi:before {
+  content: "\e906";
+}
+
+.icon-active:before {
+  content: "\e907";
+}
+
+.icon-location:before {
+  content: "\e908";
+}
+
+.icon-copy:before {
+  content: "\e909";
+}
+
+.icon-cross-thin:before {
+  content: "\e90a";
+}
+
+.icon-divider:before {
+  content: "\e90b";
+}
+
+.icon-drag:before {
+  content: "\e90c";
+}
+
+.icon-enter-fullscreen:before {
+  content: "\e90d";
+}
+
+.icon-exit-fullscreen:before {
+  content: "\e90e";
+}
+
+.icon-gamepad:before {
+  content: "\e90f";
+}
+
+.icon-user:before {
+  content: "\e910";
+}
+
+.icon-mouse:before {
+  content: "\e911";
+}
+
+.icon-mute-icon:before {
+  content: "\e912";
+}
+
+.icon-screenshot:before {
+  content: "\e913";
+}
+
+.icon-sound-icon:before {
+  content: "\e914";
+}
+
+.icon-support:before {
+  content: "\e915";
+}
+
+.icon-union:before {
+  content: "\e916";
+}
+
+.icon-upload:before {
+  content: "\e917";
+}
+
+.icon-sensi:before {
+  content: "\e918";
+}
+
+.icon-lock:before {
+  content: "\e919";
+}
+
+.icon-unlock:before {
+  content: "\e91a";
+}
+
+.icon-info:before {
+  content: "\e91b";
+}
+
+.icon-keyboard:before {
+  content: "\e91c";
+}
+
+.icon-warning:before {
+  content: "\e91d";
+}
+
+.icon-search:before {
+  content: "\e986";
+}
